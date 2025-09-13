@@ -106,7 +106,7 @@ npm run preview
 
 ## 🌐 Deployment
 
-🔗 **Live Demo URL**: [Add your deployed project link here]
+🔗 **Live Demo URL**: https://rsp-visualization.netlify.app/
 
 ---
 
